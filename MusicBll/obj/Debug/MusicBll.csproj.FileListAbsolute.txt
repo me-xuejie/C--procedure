@@ -1,0 +1,15 @@
+D:\c数据结构\MyDemo\MusicBll\obj\Debug\MusicBll.csprojAssemblyReference.cache
+D:\c数据结构\MyDemo\MusicBll\obj\Debug\MusicBll.csproj.CoreCompileInputs.cache
+D:\c数据结构\MyDemo\MusicBll\bin\Debug\MusicBll.dll
+D:\c数据结构\MyDemo\MusicBll\bin\Debug\MusicBll.pdb
+D:\c数据结构\MyDemo\MusicBll\bin\Debug\Model.dll
+D:\c数据结构\MyDemo\MusicBll\bin\Debug\MusicDal.dll
+D:\c数据结构\MyDemo\MusicBll\bin\Debug\Interop.Shell32.dll
+D:\c数据结构\MyDemo\MusicBll\bin\Debug\Model.pdb
+D:\c数据结构\MyDemo\MusicBll\bin\Debug\MusicDal.pdb
+D:\c数据结构\MyDemo\MusicBll\obj\Debug\MusicBll.csproj.CopyComplete
+D:\c数据结构\MyDemo\MusicBll\obj\Debug\MusicBll.dll
+D:\c数据结构\MyDemo\MusicBll\obj\Debug\MusicBll.pdb
+D:\c数据结构\MyDemo\MusicBll\bin\Debug\taglib-sharp.dll
+D:\c数据结构\MyDemo\MusicBll\bin\Debug\System.Data.SQLite.dll
+D:\c数据结构\MyDemo\MusicBll\bin\Debug\System.Data.SQLite.xml
